@@ -1,0 +1,8 @@
+---
+- name: James Brown #string
+  sports: Basketball #string
+  team:
+    name: Raptors #string
+    city: Toronto #string
+  Position: Forward #string
+  Age: '38' #int
