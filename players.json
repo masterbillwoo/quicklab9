@@ -1,3 +1,9 @@
-{ 
-    "name": "James" // string 
-}
+[
+    {
+        "name": "James Lebron", // string   
+   "sports": "Basketball", // string
+    "team": {"name":"Raptors", "city":"Toronto"}, // string
+"Position": "Forward", // string
+"Age":  "38" // int
+}    
+]
