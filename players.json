@@ -1,9 +1,22 @@
 [
     {
-        "name": "James Lebron", // string   
-   "sports": "Basketball", // string
-    "team": {"name":"Raptors", "city":"Toronto"}, // string
-"Position": "Forward", // string
-"Age":  "38" // int
-}    
+        "name": "James Lebron",  //string
+        "sports": "Basketball", //string
+        "team": {
+            "name": "Raptors", //string
+            "city": "Toronto" //string
+        },
+        "Position": "Forward", //string
+        "Age": "38" //int
+    },
+    {
+        "name": "Stephen Curry", //string
+        "sports": "Basketball", //string
+        "team": {
+            "name": "Warriors", //string
+            "city": "San Francisco" //string
+        },
+        "Position": "Guard",//string
+        "Age": "35" //int
+    }
 ]
